@@ -2,12 +2,13 @@
 name = "mechbot"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Sebastian Erives <s3rivesmejia@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 Flask = "^1.1.2"
 discord = "^1.0.1"
+pychal = "^1.10.0"
 
 [tool.poetry.dev-dependencies]
 
